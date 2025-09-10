@@ -1,4 +1,4 @@
-// checks for an odd or even digit
+// checks for an odd or even number
 #include <stdio.h>
 void main(){
 	int numchk_odd_even;
@@ -6,4 +6,5 @@ void main(){
 	scanf("%d",&numchk_odd_even);
 	if(numchk_odd_even%2==1) printf("%d is odd",numchk_odd_even);
 	else printf("%d is even",numchk_odd_even);
+
 }

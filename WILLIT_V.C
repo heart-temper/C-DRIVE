@@ -9,4 +9,3 @@ void will_it_vow(){
 	scanf(" %c",&vowo);
 	printf("%c \n",vowo);
 	(vowo=='a')?printf("%c is vowel",vowo):(vowo=='e')?printf("%c is vowel",vowo):(vowo=='i')?printf("%c is vowel",vowo):(vowo=='o')?printf("%c is vowel",vowo):(vowo=='u')?printf("%c is vowel",vowo):printf("%c is consonant :P",vowo);}
-

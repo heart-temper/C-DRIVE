@@ -31,35 +31,41 @@ programs made are(no help taken:]):
 24.	Check whether a number is divisible by both 3 and 7
 25.	Electricity bill calculation based on units consumed
 ________________________________________
-🔹 Switch Programs (26–50)
-26.	Simple calculator (add, subtract, multiply, divide)
-27.	Print day of the week (1 = Monday … 7 = Sunday)
-28.	Print month name from number (1–12)
-29.	Find number of days in a given month
-30.	Vowel or consonant check using switch
-31.	Check whether character is alphabet, digit, or special symbol
-32.	Menu-driven program: Area of circle, rectangle, triangle
-33.	Menu-driven program: Volume of cube, cuboid, sphere
-34.	Check even or odd using switch
-35.	Find maximum of two numbers using switch
-36.	Find maximum of three numbers using nested switch
-37.	Display grade based on marks (A, B, C, …)
-38.	Print multiplication table of a given number
-39.	Menu-driven program for arithmetic operations (+, -, *, /, %)
-40.	Menu-driven program to convert temperature (Celsius ↔ Fahrenheit)
-41.	Menu-driven program for unit conversions (km→m, m→cm, etc.)
-42.	Menu-driven program for simple interest & compound interest
-43.	Menu-driven program for checking triangle type
-44.	Menu-driven program for printing different patterns (square, triangle, pyramid)
-45.	Menu-driven program for factorial, Fibonacci, and prime check
-46.	Menu-driven program to count vowels, consonants, digits in a string
-47.	Menu-driven program to reverse a number or string
-48.	Menu-driven program for matrix operations (addition, subtraction)
-49.	Menu-driven program for array operations (sum, max, min)
-50.	Exit-controlled switch-based program (like ATM menu: deposit, withdraw, check balance, exit)
+
+
+Switch Programs (26–50)
+
+
+27.	Simple calculator (add, subtract, multiply, divide)
+28.	Print day of the week (1 = Monday … 7 = Sunday)
+29.	Print month name from number (1–12)
+30.	Find number of days in a given month
+31.	Vowel or consonant check using switch
+32.	Check whether character is alphabet, digit, or special symbol
+33.	Menu-driven program: Area of circle, rectangle, triangle
+34.	Menu-driven program: Volume of cube, cuboid, sphere
+35.	Check even or odd using switch
+36.	Find maximum of two numbers using switch
+37.	Find maximum of three numbers using nested switch
+38.	Display grade based on marks (A, B, C, …)
+39.	Print multiplication table of a given number
+40.	Menu-driven program for arithmetic operations (+, -, *, /, %)
+41.	Menu-driven program to convert temperature (Celsius ↔ Fahrenheit)
+42.	Menu-driven program for unit conversions (km→m, m→cm, etc.)
+43.	Menu-driven program for simple interest & compound interest
+44.	Menu-driven program for checking triangle type
+45.	Menu-driven program for printing different patterns (square, triangle, pyramid)
+46.	Menu-driven program for factorial, Fibonacci, and prime check
+47.	Menu-driven program to count vowels, consonants, digits in a string
+48.	Menu-driven program to reverse a number or string
+49.	Menu-driven program for matrix operations (addition, subtraction)
+50.	Menu-driven program for array operations (sum, max, min)
+51.	Exit-controlled switch-based program (like ATM menu: deposit, withdraw, check balance, exit)
 
 
 Loop Programs
+
+
 1.	Print numbers from 1 to 10
 2.	Print numbers from 10 to 1
 3.	Print even numbers from 1 to 100
@@ -81,4 +87,4 @@ Loop Programs
 19.	Print Fibonacci series up to N terms
 20.	Print sum of Fibonacci series
 21.	Print arithmetic progression series
-22.	Print geometric progression series
+22.	22.	Print geometric progression series

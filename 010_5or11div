@@ -1,0 +1,15 @@
+/*yo, i am disgusted by my own inconsistency.
+-19|09|2025*/
+#include <stdio.h>
+void main(){
+  int input, sum_11=0, i=0;
+  printf("repetitive garbage");
+  scanf("%d",input);
+  for(;i<input;){
+    sum_11=sum+input%10;
+    input/=10;
+    sum_11-=input%10;
+    input/=10;
+  }
+  if(sum%11==0&&(input%10==5||input%10==0))
+  printf("its awfpnqaefpinq")

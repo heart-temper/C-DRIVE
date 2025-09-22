@@ -5,16 +5,16 @@ below the date is my thoughts after making the program(I LOVE COMMENTS!!!!)
 
 programs made are(no help taken:]):
 
-1.	Check whether a number is positive, negative, or zero
-2.	Check whether a number is even or odd
-3.	Find the largest of two numbers
-4.	Find the largest of three numbers
-5.	Check whether a year is leap year or not
-6.	Check whether a character is a vowel or consonant
-7.	Check whether a character is an alphabet or not
-8.	Check whether a character is uppercase, lowercase, digit, or special symbol
-9.	Find the absolute value of a number
-10.	Check whether a number is divisible by 5 and 11
+1.	Check whether a number is positive, negative, or zero✅
+2.	Check whether a number is even or odd✅
+3.	Find the largest of two numbers✅
+4.	Find the largest of three numbers✅
+5.	Check whether a year is leap year or not✅
+6.	Check whether a character is a vowel or consonant✅
+7.	Check whether a character is an alphabet or not✅
+8.	Check whether a character is uppercase, lowercase, digit, or special symbol✅
+9.	Find the absolute value of a number✅
+10.	Check whether a number is divisible by 5 and 11✅
 11.	Check whether a number is prime or not
 12.	Find roots of a quadratic equation (real or imaginary)
 13.	Find grade of a student based on marks

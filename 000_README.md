@@ -15,7 +15,7 @@ programs made are(no help taken:]):
 8.	Check whether a character is uppercase, lowercase, digit, or special symbol✅
 9.	Find the absolute value of a number✅
 10.	Check whether a number is divisible by 5 and 11✅
-11.	Check whether a number is prime or not
+11.	Check whether a number is prime or not✅
 12.	Find roots of a quadratic equation (real or imaginary)
 13.	Find grade of a student based on marks
 14.	Find profit or loss percentage
